@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ageithohqu.nextroundlight.co/sitemap.xml
